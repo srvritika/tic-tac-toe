@@ -1,5 +1,5 @@
 # tic-tac-toe
-This is my first JavaScript project, where I recreated the classic Tic Tac Toe game using HTML, CSS, and JavaScript. The goal of this project was to get hands-on experience with DOM manipulation, event handling, and basic game logic using vanilla JavaScript.
+This is my first JavaScript project, where I recreate the classic Tic Tac Toe game using HTML, CSS, and JavaScript. The goal of this project is to get hands-on experience with DOM manipulation, event handling, and basic game logic using vanilla JavaScript.
 
 The Tic Tac Toe game supports a two-player mode, allowing players to take turns as Player X and Player O with clear, turn-based visual feedback. It includes automatic win detection for all possible winning combinations—rows, columns, and diagonals—and highlights the winning line when a player wins. The game also handles draw situations by recognizing when all cells are filled with no winner. Additionally, a reset feature is provided to easily restart the game without refreshing the page, ensuring a smooth and replayable experience.
 
